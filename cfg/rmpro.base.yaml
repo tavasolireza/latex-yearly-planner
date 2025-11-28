@@ -1,0 +1,43 @@
+cleartoprightcorner: true
+
+layout:
+  paper:
+    width: 17.9cm
+    height: 23.9cm
+
+    reversemargins: true
+    marginparwidth: 1cm
+    marginparsep: 4.5mm
+
+    margin:
+      top: .3cm
+      bottom: 0.6cm
+      left: 1.4cm
+      right: 0.3cm
+
+  numbers:
+    quarterlylines: 44
+    weeklylines: 13
+    dailybottomhour: 8
+    dailytophour: 23
+    dailytodos: 10
+    dailynotes: 32
+    dailydiarygrateful: 5
+    dailydiarybest: 5
+    dailydiarylog: 30
+    notesindexpages: 3
+    notesonpage: 44
+    dotheightfull: 44
+    dotwidthtwothirds: 22
+    dotwidthfull: 34
+
+  lengths:
+    tabcolsep: 3.5pt
+    linethicknessdefault: .4pt
+    linethicknessthick: .8pt
+    lineheightbutline: \dimexpr5mm-.4pt
+    twocolsep: 5pt
+    tricolsep: 5pt
+    monthlycellheight: 60pt
+    notesindexcellheight: 1.45cm
+    quarterlyspring: \textcolor{white}{..}

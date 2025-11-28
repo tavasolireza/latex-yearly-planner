@@ -1,6 +1,6 @@
 weekstart: 1
-ampmtime: false
-dotted: true
+ampmtime: true
+dotted: false
 calafterschedule: false
 addlasthalfhour: true
 
